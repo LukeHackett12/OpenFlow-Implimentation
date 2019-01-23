@@ -8,8 +8,9 @@
 ## How to run
 
 This project is setup with node.js so can be run through the command line so can be run with the following commands: 
-  npm install 
-  npm start
+    
+  $ npm install 
+  $ npm start
   
 I have also included executables for the project which will be easier to run than installing all the necessary packages.
 The client can connect to the network via any router in the network and once in the network it needs to get the network routers
