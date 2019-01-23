@@ -2,9 +2,6 @@
 
 ![alt text](https://cdn.memegenerator.es/imagenes/memes/thumb/24/77/24773268.jpg)
 
-## Build Status
-[![Build Status](https://travis-ci.com/LukeHackett12/OpenFlow-Implimentation.svg?branch=master)](https://travis-ci.com/LukeHackett12/OpenFlow-Implimentation)
-
 ## How to run
 
 This project is setup with node.js so can be run through the command line so can be run with the following commands: 
