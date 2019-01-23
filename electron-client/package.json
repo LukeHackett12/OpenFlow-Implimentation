@@ -9,7 +9,9 @@
     "package": "electron-forge package",
     "make": "electron-forge make",
     "publish": "electron-forge publish",
-    "lint": "echo \"No linting configured\""
+    "lint": "echo \"No linting configured\"",
+    "postinstall": "install-app-deps",
+    "dist": "npm run build && build --publish onTagOrDraft"
   },
   "keywords": [],
   "author": "luke",
@@ -37,8 +39,8 @@
       "electronInstallerDebian": {},
       "electronInstallerRedhat": {},
       "github_repository": {
-        "owner": "",
-        "name": ""
+        "owner": "LukeHackett12",
+        "name": "Luke Hackett"
       },
       "windowsStoreConfig": {
         "packageName": "",
