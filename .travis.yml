@@ -2,4 +2,4 @@ language: node_js
 script:
   - cd electron-client/
   - npm install
-  - npm build
+  - npm start
