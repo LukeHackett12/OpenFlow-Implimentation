@@ -1,5 +1,7 @@
 # Controller
 
+![alt text](https://www.homeofpoi.com/lessons_all/media/0-2839-air-traffic-control.jpg)
+
 ## How to run
 
 This project is setup with gradle so can be run through the command line so can be run with the following command: 
